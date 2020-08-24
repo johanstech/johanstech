@@ -1,30 +1,29 @@
-### Hi there, I'm Johan 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/johanstech/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Johan Andersson" /></a>
+  <a href="https://instagram.com/johanstech" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="@johanstech" /></a>
+  <a href="https://twitter.com/johanstech" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="johanstech" /></a>
+</p>
+<h1 align="center">Hi 👋, I'm Johan</h1>
+<h3 align="center">I'm a developer, tech enthusiast, and retired gamer.</br>I'm currently learning Dart and Flutter.</h3>
 
-## I'm a developer, tech enthusiast, and philosopher.
-
-[![LinkedIn][1.1]][1]
-[![Twitter][2.1]][2]
-[![Instagram][3.1]][3]
-
-[1.1]: https://img.icons8.com/color/48/000000/linkedin.png
-[2.1]: https://img.icons8.com/fluent/48/000000/twitter.png
-[3.1]: https://img.icons8.com/fluent/48/000000/instagram-new.png
-
-[1]: https://www.linkedin.com/in/johan-andersson-2a7067110/
-[2]: https://twitter.com/johanstech
-[3]: https://instagram.com/johanstech
-
-<!--
-**johanstech/johanstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-plain.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="csharp" width="40" height="40"/>
+</p>
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="csharp" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="csharp" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="csharp" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original-wordmark.svg" alt="csharp" width="50" height="50"/>
+</p>
+  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johanstech&theme=tokyonight&show_icons=true" alt="johanstech" /></p>
+<h4 align="center">Strive for a sustainable future. 🌱</h4>
