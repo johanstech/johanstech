@@ -12,7 +12,7 @@
 
 [1]: https://www.linkedin.com/in/johan-andersson-2a7067110/
 [2]: https://twitter.com/johanstech
-[3]: https:://instagram.com/johanstech
+[3]: https://instagram.com/johanstech
 
 <!--
 **johanstech/johanstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
