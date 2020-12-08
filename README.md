@@ -4,7 +4,7 @@
   <a href="https://twitter.com/johanstech" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="johanstech" /></a>
 </p>
 <h1 align="center">Hi 👋, I'm Johan</h1>
-<h3 align="center">I'm a developer, tech enthusiast, and retired gamer.</br>I'm currently learning Dart and Flutter.</h3>
+<h3 align="center">I'm a developer, tech enthusiast, and retired gamer.</br>I'm currently learning about microservices, along with Docker and Kubernetes.</h3>
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/>
