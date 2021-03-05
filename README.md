@@ -3,8 +3,10 @@
   <a href="https://instagram.com/johanstech" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="@johanstech" /></a>
   <a href="https://twitter.com/johanstech" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="johanstech" /></a>
 </p>
+  <h5 align="center">Strive for a sustainable future. 🌱</h5>
 <h1 align="center">Hi 👋, I'm Johan</h1>
-<h3 align="center">I'm a developer, tech enthusiast, and retired gamer.</br>I'm currently learning about microservices, along with Docker and Kubernetes.</h3>
+<h3 align="center">I'm a developer, tech enthusiast, and retired gamer.</h3>
+</br>I'm currently learning about microservices, along with Docker and Kubernetes.</h3>
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/>
@@ -24,6 +26,3 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/>
 </p>
-  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johanstech&theme=tokyonight&show_icons=true" alt="johanstech" /></p>
-<h4 align="center">Strive for a sustainable future. 🌱</h4>
